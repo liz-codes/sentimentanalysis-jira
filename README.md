@@ -1,0 +1,2 @@
+# sentimentanalysis-jira
+Code associated with the research paper "Sentiment Analysis of Male and Female Developer Comments: Exploring Gender Influence on Emotional Expressions in Software Engineering Projects": https://www.researchgate.net/publication/333786951_Sentiment_Analysis_of_Male_and_Female_Developer_Comments_Exploring_Gender_Influence_on_Emotional_Expressions_in_Software_Engineering_Projects
