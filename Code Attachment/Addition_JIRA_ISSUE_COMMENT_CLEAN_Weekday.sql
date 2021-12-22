@@ -1,0 +1,1 @@
+ALTER TABLE public.jira_issue_comment_clean ADD COLUMN weekDay integer;
